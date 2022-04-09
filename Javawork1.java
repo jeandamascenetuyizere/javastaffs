@@ -1,5 +1,5 @@
 /*
-a contrctor:is a method wich is invoked automatucally whenever a calss instance is called.
+a contrctor:is a method wich is invoked automatically whenever instance is called.
 
 */
 
